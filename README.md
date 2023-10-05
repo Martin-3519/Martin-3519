@@ -1,17 +1,16 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Martin ❄
 
 ¡Bienvenido a mi perfil de GitHub! Soy un entusiasta de la programación y me encanta explorar nuevas tecnologías y desarrollar soluciones creativas. Aquí encontrarás una variedad de proyectos que he trabajado y contribuido. 💻
 
 ## Sobre mí
 - 💡 Apasionado por la resolución de problemas y la innovación.
-- 🎓 Graduado en Ingeniería Informática.
+- 🎓 Estudiante de redes y software
 - 🚀 Siempre aprendiendo y creciendo como desarrollador.
 
 ## Lenguajes y Tecnologías
-- 💻 JavaScript | Python | Java | C++
-- 🌐 HTML | CSS | React | Node.js | Express
-- 🐍 Django | Flask | SQLAlchemy
-- 🛢️ MySQL | PostgreSQL | MongoDB
+- 💻 JavaScript | Java | C++
+- 🌐 HTML | CSS | React | Node.js
+- 🛢️ MySQL | SQL Server | MongoDB
 - 🔧 Git | Docker | Jenkins
 
 ## Mis Proyectos Destacados
