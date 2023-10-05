@@ -16,6 +16,6 @@
 ## Contáctame
 - 📫 Puedes contactarme a través de mi [sitio web](tu_sitio_web) o [LinkedIn](tu_perfil_linkedin).
 
-![Ejemplo de GIF](enlace_gif_ejemplo)
+![GIF Main](https://th.bing.com/th/id/OIP.XF7_qG68BxAd_-kSk3kRjgAAAA?pid=ImgDet&rs=1)
 
 ¡No dudes en explorar mis repositorios y colaborar en proyectos interesantes! 😊
