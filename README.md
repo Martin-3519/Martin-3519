@@ -13,11 +13,6 @@
 - 🛢️ MySQL | SQL Server | MongoDB
 - 🔧 Git | Docker | Jenkins
 
-## Mis Proyectos Destacados
-- [Proyecto 1](enlace_proyecto1) - Descripción del proyecto.
-- [Proyecto 2](enlace_proyecto2) - Descripción del proyecto.
-- [Proyecto 3](enlace_proyecto3) - Descripción del proyecto.
-
 ## Contáctame
 - 📫 Puedes contactarme a través de mi [sitio web](tu_sitio_web) o [LinkedIn](tu_perfil_linkedin).
 
